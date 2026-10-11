@@ -1,3 +1,3 @@
-# Template for UBC DSCI 100 2026 Fall
+# THIS IS SEBASTIANS READMEs
 
 HI
